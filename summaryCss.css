@@ -82,3 +82,7 @@ li{
 #me, .educationText{
     width: 800px;
 }
+
+.works__item{
+    color: gold;
+}
